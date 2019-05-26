@@ -1,3 +1,17 @@
 BitSlashV0.1.0 To Do List
 
-1.
+1.Source & Import 2d Assets (With Anims where applicable) 
+	a. Character 
+	b. 1-2 Enemies
+	c. Environment Tiles
+2.Create HomeBase Scene in unity
+	a. Create level with tileset
+3.Create Animation Controllers
+	a. Player Animation (8 way animation)
+	b. enemy animation (2 way)
+4.Create Scripts
+	a. Character Controller (Movement, character stats)
+	b. Combat (attack, take damage, alter health)
+	c. Enemy Controller (Movement/Aggro/Pathing, Enemy Stats)
+
+	
